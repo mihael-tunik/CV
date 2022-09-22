@@ -3,7 +3,7 @@ This is my workspace for editing CV.
 You can download latest build .pdf file from repository or build it from source on your own.
  
 ## Requirements
-pdflatex
+pdflatex with packages like moderncv, geometry, color (full list you can find in .tex header).
 
 ## Build [Linux]
 The easiest way to install TeX ecosystem on
